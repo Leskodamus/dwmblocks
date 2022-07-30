@@ -1,5 +1,7 @@
 # Fork of dwmblocks
 
+Custom dwm status bar
+
 ## Configuration
 
 Simply modify the `blocks.h` file. 
