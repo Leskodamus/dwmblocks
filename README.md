@@ -1,6 +1,6 @@
 # Fork of dwmblocks
 
-Custom dwm status bar
+Custom dwm status bar.
 
 ## Configuration
 
@@ -14,5 +14,4 @@ sudo make clean install
 
 ## Scripts 
 
-Various scripts can be found in the `scripts/` directory.
-
+Various scripts used by dwmblocks can be found in the `scripts/` directory.
